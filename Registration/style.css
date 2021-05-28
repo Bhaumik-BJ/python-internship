@@ -1,0 +1,31 @@
+
+*{
+  margin: 0%; padding: 0%; box-sizing: border-box;
+  font-family: 'Reggae One', cursive;
+}
+.reg_img{
+  height: 110vh;
+  width: 100%;
+  background-image: url("image/2.jpg");
+}
+.box2{
+  height: 700px;
+  width: 500px;
+  background: black;
+  margin:50px auto;
+  opacity: .8;
+  color: white;
+  padding: 20px; 
+}
+form.login{
+  margin: auto 20px;
+
+}
+input{
+  height: 50px;
+  width: 300px;
+}
+
+textarea { 
+  resize: vertical;
+}
